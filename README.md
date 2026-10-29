@@ -14,7 +14,7 @@
 A sophisticated single-page restaurant website showcasing modern CSS techniques, accessibility best practices, and responsive design principles. Built with pure HTML5 and CSS3 without any frameworks or libraries.
 
 ## Live Demo
-**[View Live Site](https://practicum-mayferld-consulting.github.io/vanilla-html-css-restaurant/)**
+**[View Live Site](https://vanilla-html-css-restaurant-phi.vercel.app/)**
 
 ## Project Overview
 
